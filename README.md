@@ -22,7 +22,7 @@ The code returns the completed matrix by combining the observed matrix with the 
 5. The inner loop updates the approximation of the matrix by performing SVD and keeping only the singular values
 
 Here is the full pseudocode:
-![pseudocode]https://github.com/soroushsheikh/MIMAT-MatrixCompletion/blob/main/material/pseudocode.png
+![pseudocode](https://github.com/soroushsheikh/MIMAT-MatrixCompletion/blob/main/material/pseudocode.png)
 
 ## Evaluation and Comparison with Other Algorithms
 
