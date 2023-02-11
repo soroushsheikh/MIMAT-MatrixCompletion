@@ -21,6 +21,9 @@ The code returns the completed matrix by combining the observed matrix with the 
 4. Within the outer loop, the inner loop runs until the relative error between two consecutive approximations of the matrix is greater than or equal to `tolerance2`.
 5. The inner loop updates the approximation of the matrix by performing SVD and keeping only the singular values
 
+Here is the full pseudocode:
+![pseudocode]https://github.com/soroushsheikh/MIMAT-MatrixCompletion/blob/main/material/pseudocode.png
+
 ## Evaluation and Comparison with Other Algorithms
 
 In this project, the performance of the proposed MIMAT algorithm is evaluated and compared with the well-known FPC and SVT algorithms. The comparison is done in terms of accuracy. The results show that the MIMAT algorithm outperforms the other algorithms in terms of accuracy and robustness while maintaining a reasonable computation time.
