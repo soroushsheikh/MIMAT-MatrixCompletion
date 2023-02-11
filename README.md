@@ -28,3 +28,5 @@ Here is the full pseudocode:
 ## Evaluation and Comparison with Other Algorithms
 
 In this project, the performance of the proposed MIMAT algorithm is evaluated and compared with the well-known FPC and SVT algorithms. The comparison is done in terms of accuracy. The results show that the MIMAT algorithm outperforms the other algorithms in terms of accuracy and robustness while maintaining a reasonable computation time.
+
+![eval](https://github.com/soroushsheikh/MIMAT-MatrixCompletion/blob/main/material/Final%20test%2060%20run%201e-4.jpg)
